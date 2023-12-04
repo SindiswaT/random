@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: space-around;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+ul li{
+    list-style-type: none;
+    padding: 5px;
+}
+ul li a{
+    text-decoration: none;
+}
